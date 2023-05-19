@@ -1,0 +1,13 @@
+:root{
+    --cor-de-fundo:rgb(10, 10, 12);
+    --cor-de-letra:white;
+
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+}
+
+h1{
+    background-color: var(--cor-de-letra);
+}
